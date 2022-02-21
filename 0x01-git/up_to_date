@@ -1,1 +1,6 @@
 touch up_to_date
+
+git checkout main 
+git fetch origin 
+git pull origin master 
+git push origin main
